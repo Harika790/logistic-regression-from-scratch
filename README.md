@@ -7,3 +7,5 @@ Inspired from
 2.https://github.com/martinpella/logistic-reg
 
 Decision boundary
+
+Alt text(image/decision_boundary.png)
