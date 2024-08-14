@@ -8,4 +8,4 @@ Inspired from
 
 Decision boundary
 
-Alt text(image/decision_boundary.png)
+https://github.com/Harika790/logistic-regression-from-scratch/blob/main/image/decision_boundary.png
